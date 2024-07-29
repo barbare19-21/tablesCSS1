@@ -1,0 +1,42 @@
+table{
+    border: 1px solid #DADADA
+}
+.th1{
+    width: 72px;
+    height: 57;
+    background-color: #F9F9F9;
+}
+.th2{
+    width: 444px;
+    height: 57px;
+    background-color: #F9F9F9;
+}
+.th3{
+    width: 276px;
+    height: 57px;
+    background-color: #F9F9F9;
+}
+.th4{
+    width: 251px;
+    height: 57px;
+    background-color: #F9F9F9;
+}
+.tytle{
+    text-align: center;
+}
+.id{
+    text-align: center;
+}
+
+.date{
+    color: red;
+    text-align: center;
+}
+.edit{
+    background-color: #FFD43A;
+    width: 115px;
+    height: 36px;
+    text-align: center;
+    padding-top: 10px;
+    margin-left: 71px;
+}
