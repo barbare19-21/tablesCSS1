@@ -1,5 +1,6 @@
 table{
     border: 1px solid #DADADA
+    border-collapse: collapse;
 }
 .th1{
     width: 72px;
