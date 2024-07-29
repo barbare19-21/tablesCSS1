@@ -1,7 +1,9 @@
 table{
-    border: 1px solid #DADADA
+    border: 1px solid #DADADA;
     border-collapse: collapse;
+    border-color: #DADADA;
 }
+
 table * {
     border-color: #DADADA;
 }
