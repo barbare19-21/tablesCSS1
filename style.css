@@ -2,6 +2,9 @@ table{
     border: 1px solid #DADADA
     border-collapse: collapse;
 }
+table * {
+    border-color: #DADADA;
+}
 .th1{
     width: 72px;
     height: 57;
