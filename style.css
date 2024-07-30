@@ -46,3 +46,12 @@ table * {
     padding-top: 10px;
     margin-left: 71px;
 }
+button{
+    background-color: #FFD43A;
+    width: 115px;
+    height: 36px;
+    text-align: center;
+    padding-top: 10px;
+    margin-left: 71px;
+    text-align: center;
+}
